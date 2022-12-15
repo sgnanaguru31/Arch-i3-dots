@@ -2,5 +2,9 @@
 dotfiles for my arch i3 configs
 
 # Dependencies
-used modified spotify module scripts from 
+
+Shell - fish
+Theme - oh my fish
+
+Used modified spotify module scripts from 
 https://github.com/PrayagS/polybar-spofity
