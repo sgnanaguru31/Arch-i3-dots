@@ -3,7 +3,7 @@ dotfiles for my arch i3 configs
 
 # Dependencies
 
-Shell - fish
+Shell - fish </br>
 Theme - oh my fish
 
 Used modified spotify module scripts from 
